@@ -40,6 +40,8 @@ Descriptions under the links below are from the first cell of the notebooks
     
 * ##[probesBCP_20feb19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/Calibration/notebooks/probesBCP_20feb19.ipynb)  
     
+* ##[exp_06apr19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/Calibration/notebooks/exp_06apr19.ipynb)  
+    
 * ##[ANKprobes_21mar19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/Calibration/notebooks/ANKprobes_21mar19.ipynb)  
     
 * ##[lab_probes_01_31jan19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/Calibration/notebooks/lab_probes_01_31jan19.ipynb)  
