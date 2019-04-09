@@ -26,6 +26,8 @@ Descriptions under the links below are from the first cell of the notebooks
     
 * ##[lab_probes_calibration03.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/Calibration/notebooks/lab_probes_calibration03.ipynb)  
     
+* ##[exp_09apr19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/Calibration/notebooks/exp_09apr19.ipynb)  
+    
 * ##[exp_30mar19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/Calibration/notebooks/exp_30mar19.ipynb)  
     
 * ##[probe_38_calibration01.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/Calibration/notebooks/probe_38_calibration01.ipynb)  
@@ -39,8 +41,6 @@ Descriptions under the links below are from the first cell of the notebooks
 * ##[exp_28mar19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/Calibration/notebooks/exp_28mar19.ipynb)  
     
 * ##[probesBCP_20feb19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/Calibration/notebooks/probesBCP_20feb19.ipynb)  
-    
-* ##[exp_06apr19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/Calibration/notebooks/exp_06apr19.ipynb)  
     
 * ##[ANKprobes_21mar19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/Calibration/notebooks/ANKprobes_21mar19.ipynb)  
     
