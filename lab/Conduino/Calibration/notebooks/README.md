@@ -16,6 +16,8 @@ Descriptions under the links below are from the first cell of the notebooks
     
 * ##[exp_18feb19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/Calibration/notebooks/exp_18feb19.ipynb)  
     
+* ##[check_calibration_11Apr19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/Calibration/notebooks/check_calibration_11Apr19.ipynb)  
+    
 * ##[exp_10apr19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/Calibration/notebooks/exp_10apr19.ipynb)  
     
 * ##[probe37_17jan19-LabSalt.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/Calibration/notebooks/probe37_17jan19-LabSalt.ipynb)  
