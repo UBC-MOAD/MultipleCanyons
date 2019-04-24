@@ -8,12 +8,16 @@ Descriptions under the links below are from the first cell of the notebooks
 
 * ##[check_shapes.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/notebooks/check_shapes.ipynb)  
     
+* ##[plot_lab_bathy.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/notebooks/plot_lab_bathy.ipynb)  
+    
+* ##[geometric_dimensions_Barkley_and_Astoria.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/notebooks/geometric_dimensions_Barkley_and_Astoria.ipynb)  
+    
 * ##[VIBathymetry.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/notebooks/VIBathymetry.ipynb)  
     
 
 ##License
 
-These notebooks and files are copyright 2013-2018
+These notebooks and files are copyright 2013-2019
 by The University of British Columbia.
 
 They are licensed under the Apache License, Version 2.0.
