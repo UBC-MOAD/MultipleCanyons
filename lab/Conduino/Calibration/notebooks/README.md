@@ -6,6 +6,8 @@ The links below are to static renderings of the notebooks via
 Descriptions under the links below are from the first cell of the notebooks
 (if that cell contains Markdown or raw text).
 
+* ##[P20cm_probe_30apr19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/Calibration/notebooks/P20cm_probe_30apr19.ipynb)  
+    
 * ##[exp_04apr19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/Calibration/notebooks/exp_04apr19.ipynb)  
     
 * ##[exp_02apr19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/Calibration/notebooks/exp_02apr19.ipynb)  
@@ -46,6 +48,8 @@ Descriptions under the links below are from the first cell of the notebooks
     
 * ##[exp_14feb19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/Calibration/notebooks/exp_14feb19.ipynb)  
     
+* ##[P20cm_probe_30apr19-Copy1.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/Calibration/notebooks/P20cm_probe_30apr19-Copy1.ipynb)  
+    
 * ##[exp_16feb19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/Calibration/notebooks/exp_16feb19.ipynb)  
     
 * ##[exp_28mar19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/Calibration/notebooks/exp_28mar19.ipynb)  
@@ -55,6 +59,8 @@ Descriptions under the links below are from the first cell of the notebooks
 * ##[exp_06apr19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/Calibration/notebooks/exp_06apr19.ipynb)  
     
 * ##[ANKprobes_21mar19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/Calibration/notebooks/ANKprobes_21mar19.ipynb)  
+    
+* ##[check_probe_interference_30apr19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/Calibration/notebooks/check_probe_interference_30apr19.ipynb)  
     
 * ##[lab_probes_01_31jan19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/Calibration/notebooks/lab_probes_01_31jan19.ipynb)  
     
