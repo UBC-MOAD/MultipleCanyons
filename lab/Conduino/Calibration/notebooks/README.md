@@ -12,6 +12,8 @@ Descriptions under the links below are from the first cell of the notebooks
     
 * ##[exp_02apr19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/Calibration/notebooks/exp_02apr19.ipynb)  
     
+* ##[exp_16may19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/Calibration/notebooks/exp_16may19.ipynb)  
+    
 * ##[Untitled.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/Calibration/notebooks/Untitled.ipynb)  
     
 * ##[SaltWedge.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/Calibration/notebooks/SaltWedge.ipynb)  
@@ -27,6 +29,8 @@ Descriptions under the links below are from the first cell of the notebooks
 * ##[probe37_17jan19-LabSalt.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/Calibration/notebooks/probe37_17jan19-LabSalt.ipynb)  
     
 * ##[probe37_25oct18.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/Calibration/notebooks/probe37_25oct18.ipynb)  
+    
+* ##[check_probe_interference_14may19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/Calibration/notebooks/check_probe_interference_14may19.ipynb)  
     
 * ##[ANK_P_probes_29mar19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/Calibration/notebooks/ANK_P_probes_29mar19.ipynb)  
     
