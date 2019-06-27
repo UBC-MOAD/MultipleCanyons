@@ -1,0 +1,8 @@
+# use glob syntax.
+syntax: glob
+
+*.txt
+*.jpg
+*.pdf
+*.mat
+*.csv
