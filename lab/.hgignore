@@ -6,3 +6,4 @@ syntax: glob
 *.pdf
 *.mat
 *.csv
+lab/PIV/tests/30May19_PIV2/frames_video02/*.jpg
