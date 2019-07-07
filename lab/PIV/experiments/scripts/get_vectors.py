@@ -42,10 +42,10 @@ thresh = nml['piv_nml']['thresh'] # signal to noise threshold
 
 #--------------------------------------------------------------------------------------------------------
 
-for ii in range(ini_frame,end_frame-2,2):
+for ii in range(ini_frame,end_frame-4,4):
 
     fr_num_a = ('%04d' %ii)
-    fr_num_b = ('%04d' %(ii+2))
+    fr_num_b = ('%04d' %(ii+4))
     
     file_a = (frame_dir+frame_format %fr_num_a)
     file_b = (frame_dir+frame_format %fr_num_b)
