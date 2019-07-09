@@ -64,33 +64,3 @@ def profiler_19may(time_conduino):
     
     return(dist*100) # m to cm beacuse file is in meters
 
-def densP_02May19(read):
-    ''' Calibration from 02 May 2019 in ANK_P20_probes_02may19.ipynb'''
-    fitP = 0.998176+(0.001940*read)+(0.001296*read**2)-(0.000073*read**3)
-    return(fitP)
-
-def densANK1_02May19(read):
-    '''Calibration from 02 May 2019 in ANK_P20_probes_02may19.ipynb'''
-    rho_1 = 0.998102+0.004567*read+0.000676*read**2+0.000056*read**3 
-    return(rho_1)
-
-def densANK2_02May19(read):
-    '''Calibration from 02 May 2019 in ANK_P20_probes_02may19.ipynb '''
-    rho_2 = 0.997984+0.004090*read+0.001643*read**2+0.000193*read**3 
-    return(rho_2)
-
-def densP_06Jul19(read):
-    ''' Calibration from 06 Jul 2019 in ANK_P20_probes_06jul19.ipynb'''
-    fitP = 0.998074+(0.001739*read)+(0.001236*read**2)+(0.000031*read**3)
-    return(fitP)
-
-def densANK1_06Jul19(read):
-    '''Calibration from 06 Jul 2019 in ANK_P20_probes_06jul19.ipynb'''
-    rho_1 = 0.998349+0.002087*read+0.001721*read**2+0.000050*read**3 
-    return(rho_1)
-
-def densANK2_06Jul19(read):
-    '''Calibration from 06 Jul 2019 in ANK_P20_probes_06jul19.ipynb '''
-    rho_2 = 0.997829+0.003691*read+0.000034*read**2+0.000560*read**3 
-    return(rho_2)
-
