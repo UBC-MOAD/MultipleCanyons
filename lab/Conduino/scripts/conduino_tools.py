@@ -74,3 +74,24 @@ def densANK2_06Jul19(read):
     rho_2 = 0.997829+0.003691*read+0.000034*read**2+0.000560*read**3 
     return(rho_2)
 
+def densP_12Jul19(read):
+    ''' Calibration from 12 Jul 2019 in ANK_P20_probes_12jul19.ipynb
+    Probes ANK and P20 calibrated independently - use if conduinos at 
+    canyon heads and profiler were not connected simultaneously'''
+    fitP = 0.998225+(0.002238*read)+(0.001219*read**2)+(0.000168*read**3)
+    return(fitP)
+
+def densANK1_12Jul19(read):
+    ''' Calibration from 12 Jul 2019 in ANK_P20_probes_12jul19.ipynb
+    Probes ANK and P20 calibrated independently - use if conduinos at 
+    canyon heads and profiler were not connected simultaneously'''
+    rho_1 = 0.998103+(0.004159*read)+(0.000582*read**2)+(0.000166*read**3) 
+    return(rho_1)
+
+def densANK2_12Jul19(read):
+    ''' Calibration from 12 Jul 2019 in ANK_P20_probes_12jul19.ipynb
+    Probes ANK and P20 calibrated independently - use if conduinos at 
+    canyon heads and profiler were not connected simultaneously'''
+    rho_2 = 0.998142+(0.003846*read)+(0.000306*read**2)+(0.000506*read**3) 
+    return(rho_2)
+
