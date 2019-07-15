@@ -8,6 +8,8 @@ Descriptions under the links below are from the first cell of the notebooks
 
 * ##[P20cm_probe_30apr19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/Calibration/notebooks/P20cm_probe_30apr19.ipynb)  
     
+* ##[probe_performance_and_profiles_12jul19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/Calibration/notebooks/probe_performance_and_profiles_12jul19.ipynb)  
+    
 * ##[exp_04apr19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/Calibration/notebooks/exp_04apr19.ipynb)  
     
 * ##[exp_02apr19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/Calibration/notebooks/exp_02apr19.ipynb)  
@@ -36,6 +38,8 @@ Descriptions under the links below are from the first cell of the notebooks
     
 * ##[lab_probes_calibration02.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/Calibration/notebooks/lab_probes_calibration02.ipynb)  
     
+* ##[ANK_P20_probes_12jul19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/Calibration/notebooks/ANK_P20_probes_12jul19.ipynb)  
+    
 * ##[lab_probes_calibration03.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/Calibration/notebooks/lab_probes_calibration03.ipynb)  
     
 * ##[exp_13jun19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/Calibration/notebooks/exp_13jun19.ipynb)  
@@ -49,6 +53,8 @@ Descriptions under the links below are from the first cell of the notebooks
 * ##[P20cm_probe_25apr19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/Calibration/notebooks/P20cm_probe_25apr19.ipynb)  
     
 * ##[probe_38_calibration01.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/Calibration/notebooks/probe_38_calibration01.ipynb)  
+    
+* ##[ANK_P20_probes_06jul19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/Calibration/notebooks/ANK_P20_probes_06jul19.ipynb)  
     
 * ##[exp_26mar19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/Calibration/notebooks/exp_26mar19.ipynb)  
     
