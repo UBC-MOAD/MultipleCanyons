@@ -5,7 +5,7 @@ from scipy.interpolate import interp1d
 
 def profiler_11jun(time_conduino):
     # Input
-    filename = 'profiler_tracking_11jun19.txt'
+    filename = '/ocean/kramosmu/MultipleCanyons/lab/Conduino/scripts/profiler_tracking_11jun19.txt'
     ini = 19
     end = 85
 
