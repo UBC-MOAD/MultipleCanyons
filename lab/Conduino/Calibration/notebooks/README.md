@@ -18,6 +18,8 @@ Descriptions under the links below are from the first cell of the notebooks
     
 * ##[SaltWedge.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/Calibration/notebooks/SaltWedge.ipynb)  
     
+* ##[profiler_with_2rpm_motor_24jul19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/Calibration/notebooks/profiler_with_2rpm_motor_24jul19.ipynb)  
+    
 * ##[exp_18feb19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/Calibration/notebooks/exp_18feb19.ipynb)  
     
 * ##[check_calibration_11Apr19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/Calibration/notebooks/check_calibration_11Apr19.ipynb)  
@@ -53,6 +55,8 @@ Descriptions under the links below are from the first cell of the notebooks
 * ##[ANK_P20_probes_02may19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/Calibration/notebooks/ANK_P20_probes_02may19.ipynb)  
     
 * ##[P20cm_probe_25apr19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/Calibration/notebooks/P20cm_probe_25apr19.ipynb)  
+    
+* ##[inter_calibration_comparsion.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/Calibration/notebooks/inter_calibration_comparsion.ipynb)  
     
 * ##[probe_38_calibration01.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/Calibration/notebooks/probe_38_calibration01.ipynb)  
     
