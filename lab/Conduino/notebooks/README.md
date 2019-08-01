@@ -18,6 +18,8 @@ Descriptions under the links below are from the first cell of the notebooks
     
 * ##[exp_05Jul19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/notebooks/exp_05Jul19.ipynb)  
     
+* ##[exp_31Jul19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/notebooks/exp_31Jul19.ipynb)  
+    
 * ##[exp_04Jul19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/notebooks/exp_04Jul19.ipynb)  
     
 * ##[exp_20Jul19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/notebooks/exp_20Jul19.ipynb)  
