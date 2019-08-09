@@ -14,6 +14,8 @@ Descriptions under the links below are from the first cell of the notebooks
     
 * ##[exp_05Aug19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/notebooks/exp_05Aug19.ipynb)  
     
+* ##[exp_08Aug19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/notebooks/exp_08Aug19.ipynb)  
+    
 * ##[track_profiler_2rpm.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/notebooks/track_profiler_2rpm.ipynb)  
     
 * ##[exp_03Jul19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/notebooks/exp_03Jul19.ipynb)  
@@ -31,6 +33,8 @@ Descriptions under the links below are from the first cell of the notebooks
 * ##[exp_01Aug19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/notebooks/exp_01Aug19.ipynb)  
     
 * ##[exp_20Jul19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/notebooks/exp_20Jul19.ipynb)  
+    
+* ##[exp_07Aug19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/notebooks/exp_07Aug19.ipynb)  
     
 
 ##License
