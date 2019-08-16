@@ -20,6 +20,8 @@ Descriptions under the links below are from the first cell of the notebooks
     
 * ##[exp_13Aug19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/notebooks/exp_13Aug19.ipynb)  
     
+* ##[exp_15Aug19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/notebooks/exp_15Aug19.ipynb)  
+    
 * ##[track_profiler_2rpm.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/notebooks/track_profiler_2rpm.ipynb)  
     
 * ##[exp_03Jul19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/notebooks/exp_03Jul19.ipynb)  
