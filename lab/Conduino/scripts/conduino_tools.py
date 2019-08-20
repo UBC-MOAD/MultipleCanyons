@@ -113,3 +113,21 @@ def densANK2_09Aug19(read):
     rho_2 = 0.997546+(0.005198*read)-(0.000409*(read**2))+(0.000470*(read**3))
     return(rho_2)
 
+def densP_17Aug19(read):
+    ''' Calibration from 17 Aug 2019 in ANK_P21_probes_17aug19.ipynb
+    '''
+    rho_P = 0.996552+(0.022331*read)+(-0.037047*(read**2))+(0.035005*(read**3))
+    return(rho_P)
+
+def densANK1_17Aug19(read):
+    ''' Calibration from 17 Aug 2019 in ANK_P21_probes_017aug19.ipynb
+    '''
+    rho_1 = 0.997004+(0.008108*read)+(-0.002737*(read**2))+(0.000769*(read**3)) 
+    return(rho_1)
+
+def densANK2_17Aug19(read):
+    ''' Calibration from 17 Aug 2019 in ANK_P21_probes_17aug19.ipynb
+    '''
+    rho_2 = 0.996888+(0.009153*read)+(-0.004260*(read**2))+(0.001388*(read**3)) 
+    return(rho_2)
+
