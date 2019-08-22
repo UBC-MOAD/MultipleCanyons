@@ -27,6 +27,40 @@ def filter_freq(time, data, f):
     Yr = data - Yh # Resiudual
     return Yr, Yh
 
+def filter_timeseries(record, winlen=39):
+    
+    '''as in filter_timesies in salish sea tidetools.py without doodson option'''
+    
+    filtered = record.copy()
+    record_length = record.shape[0]
+    w = (winlen - 1) // 2
+    weight = np.zeros(w, dtype=int)
+    weight[:] = 1
+    centerval = 1
+    
+    #Loop through record
+    for i in range(record_length):
+        
+        # Adjust window length for end cases
+        W = min(i, w, record_length-i-1)
+        Weight = weight[:W]
+        Weight = np.append(Weight[::-1], np.append(centerval, Weight))
+        if sum(Weight) != 0:
+            Weight = (Weight/sum(Weight))
+        
+        # Expand weight dims so it can operate on record window
+        for dim in range(record.ndim - 1):
+            Weight = Weight[:, np.newaxis]
+        
+        # Apply mean over window length
+        if W > 0:
+            filtered[i, ...] = np.sum(record[i-W:i+W+1, ...] * Weight, axis=0)
+        else:
+            filtered[i, ...] = record[i, ...]
+    
+    return filtered
+
+
 def densP_29Mar19(reading):
     ''' Calibration from 29 mar 2019 in calibration_29mar19.ipynb. Returns density fitted using a 3rd deg polynomial.
     Input - reading::array
