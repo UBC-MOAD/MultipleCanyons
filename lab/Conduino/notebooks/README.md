@@ -38,6 +38,8 @@ Descriptions under the links below are from the first cell of the notebooks
     
 * ##[all_profiles_P20.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/notebooks/all_profiles_P20.ipynb)  
     
+* ##[two_canyons-Z.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/notebooks/two_canyons-Z.ipynb)  
+    
 * ##[all_profiles_P21.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/notebooks/all_profiles_P21.ipynb)  
     
 * ##[exp_21Aug19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/notebooks/exp_21Aug19.ipynb)  
