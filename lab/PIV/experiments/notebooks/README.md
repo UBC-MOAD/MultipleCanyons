@@ -18,6 +18,8 @@ Descriptions under the links below are from the first cell of the notebooks
     
 * ##[levels_T04.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/PIV/experiments/notebooks/levels_T04.ipynb)  
     
+* ##[T02_vorticity.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/PIV/experiments/notebooks/T02_vorticity.ipynb)  
+    
 * ##[levels_T11_and_T12.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/PIV/experiments/notebooks/levels_T11_and_T12.ipynb)  
     
 * ##[exp_18jun19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/PIV/experiments/notebooks/exp_18jun19.ipynb)  
