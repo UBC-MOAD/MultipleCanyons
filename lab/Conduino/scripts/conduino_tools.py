@@ -1,4 +1,5 @@
 import numpy as np
+from scipy.interpolate import interp1d
 
 def filter_freq(time, data, f):
     '''filter a particular frequency (f) from a timeseries (data). 
@@ -141,8 +142,25 @@ def densANK1_09Aug19(read):
     rho_1 = 0.997724+(0.003955*read)+(0.000772*(read**2))+(0.000136*(read**3)) 
     return(rho_1)
 
+def errorANK1_09Aug19(read):
+    '''Calculate the derivative drho(r)/dr of the calibration curve to calulate the 
+    error of a density value or array as deltrho = drho(r)/dr delta r'''
+    dummy = np.linspace(np.nanmin(read),np.nanmax(read),len(read))
+    density = densANK1_09Aug19(dummy)
+    del_rho = interp1d(dummy[1:],(density[1:]-density[:-1])/(dummy[1:]-dummy[:-1]), fill_value='extrapolate')
+    return(del_rho(read))
+
+
+def errorANK2_09Aug19(read):
+    '''Calculate the derivative drho(r)/dr of the calibration curve to calulate 
+    the error of a density value or array as deltrho = drho(r)/dr delta r'''
+    dummy = np.linspace(np.nanmin(read),np.nanmax(read),len(read))
+    density = densANK2_09Aug19(dummy)
+    del_rho = interp1d(dummy[1:],(density[1:]-density[:-1])/(dummy[1:]-dummy[:-1]), fill_value='extrapolate')
+    return(del_rho(read))
+
 def densANK2_09Aug19(read):
-    ''' Calibration from 09 Aug 2019 in ANK_P20_probes_19aug19.ipynb
+    ''' Calibration from 09 Aug 2019 in ANK_P20_probes_09aug19.ipynb
     '''
     rho_2 = 0.997546+(0.005198*read)-(0.000409*(read**2))+(0.000470*(read**3))
     return(rho_2)
@@ -165,3 +183,19 @@ def densANK2_17Aug19(read):
     rho_2 = 0.996888+(0.009153*read)+(-0.004260*(read**2))+(0.001388*(read**3)) 
     return(rho_2)
 
+def errorANK1_17Aug19(read):
+    '''Calculate the derivative drho(r)/dr of the calibration curve to calulate 
+    the error of a density value or array as deltrho = drho(r)/dr delta r'''
+    dummy = np.linspace(np.nanmin(read),np.nanmax(read),len(read))
+    density = densANK1_17Aug19(dummy)
+    del_rho = interp1d(dummy[1:],(density[1:]-density[:-1])/(dummy[1:]-dummy[:-1]), fill_value='extrapolate')
+    return(del_rho(read))
+
+
+def errorANK2_17Aug19(read):
+    '''Calculate the derivative drho(r)/dr of the calibration curve to calulate 
+    the error of a density value or array as deltrho = drho(r)/dr delta r'''
+    dummy = np.linspace(np.nanmin(read),np.nanmax(read),len(read))
+    density = densANK2_17Aug19(dummy)
+    del_rho = interp1d(dummy[1:],(density[1:]-density[:-1])/(dummy[1:]-dummy[:-1]), fill_value='extrapolate')
+    return(del_rho(read))
