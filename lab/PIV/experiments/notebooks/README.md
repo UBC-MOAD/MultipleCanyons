@@ -6,6 +6,8 @@ The links below are to static renderings of the notebooks via
 Descriptions under the links below are from the first cell of the notebooks
 (if that cell contains Markdown or raw text).
 
+* ##[T11_ups_dns_anomaly.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/PIV/experiments/notebooks/T11_ups_dns_anomaly.ipynb)  
+    
 * ##[levels_T07.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/PIV/experiments/notebooks/levels_T07.ipynb)  
     
 * ##[movie_T02.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/PIV/experiments/notebooks/movie_T02.ipynb)  
@@ -14,15 +16,25 @@ Descriptions under the links below are from the first cell of the notebooks
     
 * ##[all_levels_T02.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/PIV/experiments/notebooks/all_levels_T02.ipynb)  
     
+* ##[T07_radial_azimuth_spd.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/PIV/experiments/notebooks/T07_radial_azimuth_spd.ipynb)  
+    
 * ##[exp_13jun19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/PIV/experiments/notebooks/exp_13jun19.ipynb)  
     
 * ##[levels_T04.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/PIV/experiments/notebooks/levels_T04.ipynb)  
+    
+* ##[S11_S12_radial_azimuth_spd.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/PIV/experiments/notebooks/S11_S12_radial_azimuth_spd.ipynb)  
     
 * ##[T02_vorticity.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/PIV/experiments/notebooks/T02_vorticity.ipynb)  
     
 * ##[levels_T11_and_T12.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/PIV/experiments/notebooks/levels_T11_and_T12.ipynb)  
     
+* ##[T04_radial_azimuth_spd.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/PIV/experiments/notebooks/T04_radial_azimuth_spd.ipynb)  
+    
 * ##[exp_18jun19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/PIV/experiments/notebooks/exp_18jun19.ipynb)  
+    
+* ##[T02_radial_azimuth_spd.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/PIV/experiments/notebooks/T02_radial_azimuth_spd.ipynb)  
+    
+* ##[compute_ups_dns_anomaly.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/PIV/experiments/notebooks/compute_ups_dns_anomaly.ipynb)  
     
 * ##[levels_S03_and_S08.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/PIV/experiments/notebooks/levels_S03_and_S08.ipynb)  
     
