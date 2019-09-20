@@ -28,6 +28,8 @@ Descriptions under the links below are from the first cell of the notebooks
     
 * ##[Comparison_ur_two-canyons.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/PIV/experiments/notebooks/Comparison_ur_two-canyons.ipynb)  
     
+* ##[S03_S08_radial_azimuth_spd.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/PIV/experiments/notebooks/S03_S08_radial_azimuth_spd.ipynb)  
+    
 * ##[T02_vorticity.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/PIV/experiments/notebooks/T02_vorticity.ipynb)  
     
 * ##[levels_T11_and_T12.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/PIV/experiments/notebooks/levels_T11_and_T12.ipynb)  
