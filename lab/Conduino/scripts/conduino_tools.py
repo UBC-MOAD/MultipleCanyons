@@ -199,3 +199,17 @@ def errorANK2_17Aug19(read):
     density = densANK2_17Aug19(dummy)
     del_rho = interp1d(dummy[1:],(density[1:]-density[:-1])/(dummy[1:]-dummy[:-1]), fill_value='extrapolate')
     return(del_rho(read))
+
+def densANK1_05Nov19(read):
+    ''' Calibration from 05 Nov 2019 in ANK_probes_05nov19.ipynb
+    '''
+    rho_1 = 0.997970+(0.003838*read)+(0.003729*(read**2))+(-0.000199*(read**3)) 
+
+    return(rho_1)
+
+def densANK2_05Nov19(read):
+    ''' Calibration from 05 Nov 2019 in ANK_probes_05nov19.ipynb
+    '''
+    rho_2 = 0.998538+(-0.002338*read)+(0.007345*(read**2))+(-0.000210*(read**3)) 
+
+    return(rho_2)
