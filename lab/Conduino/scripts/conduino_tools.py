@@ -1,5 +1,6 @@
 import numpy as np
 from scipy.interpolate import interp1d
+from scipy.signal import butter, filtfilt
 
 def filter_freq(time, data, f):
     '''filter a particular frequency (f) from a timeseries (data). 
@@ -61,6 +62,34 @@ def filter_timeseries(record, winlen=39):
     
     return filtered
 
+
+def butter_lowpass(lowcut, fs, order=5):
+    '''INPUT
+       lowcut::float , frequency above which to filter signal (Hz)
+       fs::float , sampling frequency (Hz)
+       order::int, ortder of the filter
+       OUTPUT
+       b:
+       a:
+       '''    
+    nyq = 0.5 * fs
+    low = lowcut / nyq
+    b, a = butter(order, low, btype='low')
+    return b, a
+
+
+def butter_lowpass_filter(data, lowcut, fs, order=5):
+    '''INPUT
+       lowcut::float , frequency above which to filter signal (Hz)
+       data::array , signal to filter
+       fs:: sampling frequency in Hz
+       order::int, ortder of the filter
+       OUTPUT
+       y::array, filtered signal of same size as data
+       '''   
+    b, a = butter_lowpass(lowcut, fs, order=order)
+    y = filtfilt(b, a, data)
+    return y
 
 def densP_29Mar19(reading):
     ''' Calibration from 29 mar 2019 in calibration_29mar19.ipynb. Returns density fitted using a 3rd deg polynomial.
