@@ -56,6 +56,8 @@ Descriptions under the links below are from the first cell of the notebooks
     
 * ##[exp_05Aug19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/notebooks/exp_05Aug19.ipynb)  
     
+* ##[exp_07Nov19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/notebooks/exp_07Nov19.ipynb)  
+    
 * ##[exp_21Aug19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/notebooks/exp_21Aug19.ipynb)  
     
 * ##[exp_18Aug19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/notebooks/exp_18Aug19.ipynb)  
