@@ -54,6 +54,8 @@ Descriptions under the links below are from the first cell of the notebooks
     
 * ##[probe37_25oct18.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/Calibration/notebooks/probe37_25oct18.ipynb)  
     
+* ##[probe_testing_15nov19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/Calibration/notebooks/probe_testing_15nov19.ipynb)  
+    
 * ##[ANK_calibration_figures_and_errors_ch4.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/Calibration/notebooks/ANK_calibration_figures_and_errors_ch4.ipynb)  
     
 * ##[probe37_04dec18.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/Calibration/notebooks/probe37_04dec18.ipynb)  
