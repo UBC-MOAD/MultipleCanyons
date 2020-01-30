@@ -6,48 +6,48 @@ The links below are to static renderings of the notebooks via
 Descriptions under the links below are from the first cell of the notebooks
 (if that cell contains Markdown or raw text).
 
-* ##[Comparison_ur_one-canyon.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/PIV/experiments/notebooks/Comparison_ur_one-canyon.ipynb)  
-    
-* ##[T11_ups_dns_anomaly.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/PIV/experiments/notebooks/T11_ups_dns_anomaly.ipynb)  
-    
-* ##[levels_T07.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/PIV/experiments/notebooks/levels_T07.ipynb)  
-    
-* ##[movie_T02.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/PIV/experiments/notebooks/movie_T02.ipynb)  
-    
-* ##[learning_to_read_PIV_output.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/PIV/experiments/notebooks/learning_to_read_PIV_output.ipynb)  
-    
-* ##[all_levels_T02.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/PIV/experiments/notebooks/all_levels_T02.ipynb)  
-    
-* ##[T07_radial_azimuth_spd.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/PIV/experiments/notebooks/T07_radial_azimuth_spd.ipynb)  
+* ##[levels_S03_and_S08.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/PIV/experiments/notebooks/levels_S03_and_S08.ipynb)  
     
 * ##[exp_13jun19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/PIV/experiments/notebooks/exp_13jun19.ipynb)  
     
 * ##[levels_T04.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/PIV/experiments/notebooks/levels_T04.ipynb)  
     
-* ##[S11_S12_radial_azimuth_spd.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/PIV/experiments/notebooks/S11_S12_radial_azimuth_spd.ipynb)  
-    
-* ##[Comparison_ur_two-canyons.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/PIV/experiments/notebooks/Comparison_ur_two-canyons.ipynb)  
-    
-* ##[S03_S08_radial_azimuth_spd.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/PIV/experiments/notebooks/S03_S08_radial_azimuth_spd.ipynb)  
-    
-* ##[T02_vorticity.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/PIV/experiments/notebooks/T02_vorticity.ipynb)  
+* ##[movie_T02.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/PIV/experiments/notebooks/movie_T02.ipynb)  
     
 * ##[levels_T11_and_T12.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/PIV/experiments/notebooks/levels_T11_and_T12.ipynb)  
     
-* ##[T04_radial_azimuth_spd.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/PIV/experiments/notebooks/T04_radial_azimuth_spd.ipynb)  
-    
 * ##[exp_18jun19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/PIV/experiments/notebooks/exp_18jun19.ipynb)  
+    
+* ##[Comparison_ur_two-canyons.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/PIV/experiments/notebooks/Comparison_ur_two-canyons.ipynb)  
+    
+* ##[all_levels_T02.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/PIV/experiments/notebooks/all_levels_T02.ipynb)  
+    
+* ##[S11_S12_radial_azimuth_spd.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/PIV/experiments/notebooks/S11_S12_radial_azimuth_spd.ipynb)  
     
 * ##[T02_radial_azimuth_spd.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/PIV/experiments/notebooks/T02_radial_azimuth_spd.ipynb)  
     
 * ##[compute_ups_dns_anomaly.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/PIV/experiments/notebooks/compute_ups_dns_anomaly.ipynb)  
     
-* ##[levels_S03_and_S08.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/PIV/experiments/notebooks/levels_S03_and_S08.ipynb)  
+* ##[T04_radial_azimuth_spd.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/PIV/experiments/notebooks/T04_radial_azimuth_spd.ipynb)  
+    
+* ##[T11_ups_dns_anomaly.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/PIV/experiments/notebooks/T11_ups_dns_anomaly.ipynb)  
+    
+* ##[S03_S08_radial_azimuth_spd.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/PIV/experiments/notebooks/S03_S08_radial_azimuth_spd.ipynb)  
+    
+* ##[levels_T07.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/PIV/experiments/notebooks/levels_T07.ipynb)  
+    
+* ##[T07_radial_azimuth_spd.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/PIV/experiments/notebooks/T07_radial_azimuth_spd.ipynb)  
+    
+* ##[learning_to_read_PIV_output.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/PIV/experiments/notebooks/learning_to_read_PIV_output.ipynb)  
+    
+* ##[Comparison_ur_one-canyon.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/PIV/experiments/notebooks/Comparison_ur_one-canyon.ipynb)  
+    
+* ##[T02_vorticity.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/PIV/experiments/notebooks/T02_vorticity.ipynb)  
     
 
 ##License
 
-These notebooks and files are copyright 2013-2019
+These notebooks and files are copyright 2013-2020
 by The University of British Columbia.
 
 They are licensed under the Apache License, Version 2.0.
