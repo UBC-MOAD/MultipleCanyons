@@ -11,4 +11,4 @@ syntax: glob
 *.mov
 *.mat
 *.csv
-
+*.txt
