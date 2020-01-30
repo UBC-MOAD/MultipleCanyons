@@ -10,11 +10,15 @@ Descriptions under the links below are from the first cell of the notebooks
     
 * ##[exp_20Aug19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/notebooks/exp_20Aug19.ipynb)  
     
+* ##[exp_19Dec19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/notebooks/exp_19Dec19.ipynb)  
+    
 * ##[exp_08Jul19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/notebooks/exp_08Jul19.ipynb)  
     
 * ##[exp_07Aug19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/notebooks/exp_07Aug19.ipynb)  
     
 * ##[Oscillations_II.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/notebooks/Oscillations_II.ipynb)  
+    
+* ##[exp_28Jan20.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/notebooks/exp_28Jan20.ipynb)  
     
 * ##[track_profiler_2rpm.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/notebooks/track_profiler_2rpm.ipynb)  
     
@@ -23,6 +27,8 @@ Descriptions under the links below are from the first cell of the notebooks
 * ##[exp_05Jul19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/notebooks/exp_05Jul19.ipynb)  
     
 * ##[exp_20Jul19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/notebooks/exp_20Jul19.ipynb)  
+    
+* ##[exp_10Dec19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/notebooks/exp_10Dec19.ipynb)  
     
 * ##[exp_19Aug19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/notebooks/exp_19Aug19.ipynb)  
     
@@ -47,6 +53,8 @@ Descriptions under the links below are from the first cell of the notebooks
 * ##[plots_ch4_two_canyons.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/notebooks/plots_ch4_two_canyons.ipynb)  
     
 * ##[track_profiler.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/notebooks/track_profiler.ipynb)  
+    
+* ##[exp_21Dec19.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/notebooks/exp_21Dec19.ipynb)  
     
 * ##[plot_experiment_and_recovery_AppendixLabMethods.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/multipleCanyons/raw/tip/lab/Conduino/notebooks/plot_experiment_and_recovery_AppendixLabMethods.ipynb)  
     
@@ -77,7 +85,7 @@ Descriptions under the links below are from the first cell of the notebooks
 
 ##License
 
-These notebooks and files are copyright 2013-2019
+These notebooks and files are copyright 2013-2020
 by The University of British Columbia.
 
 They are licensed under the Apache License, Version 2.0.
