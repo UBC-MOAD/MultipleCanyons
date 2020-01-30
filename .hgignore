@@ -12,3 +12,15 @@ syntax: glob
 *.mat
 *.csv
 *.txt
+*.nc
+*.dat
+*.zip
+*.html
+*.DS_store
+*.ods
+*.pyc
+*.nml
+*.at
+*.JPG
+*.gif
+*.tif
