@@ -16,7 +16,7 @@ syntax: glob
 *.dat
 *.zip
 *.html
-*.DS_store
+*.DS_Store
 *.ods
 *.pyc
 *.nml
@@ -24,3 +24,5 @@ syntax: glob
 *.JPG
 *.gif
 *.tif
+*.avi
+
