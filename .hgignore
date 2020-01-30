@@ -1,0 +1,14 @@
+syntax: glob
+
+*.mp4
+*.data
+*.meta
+*.ipynb_checkpoints
+*.jpg
+*.pdf
+*.eps
+*.png
+*.mov
+*.mat
+*.csv
+

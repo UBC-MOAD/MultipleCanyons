@@ -242,3 +242,15 @@ def densANK2_05Nov19(read):
     rho_2 = 0.998538+(-0.002338*read)+(0.007345*(read**2))+(-0.000210*(read**3)) 
 
     return(rho_2)
+
+def densANK1_05Dec19(read):
+    ''' Calibration from 05 Dec 2019 in ANK_probes_05dec19.ipynb - New probes, not bent
+    '''
+    rho_1 = 0.997088+(0.010496*read)+(-0.002390*(read**2))+(0.001029*(read**3)) 
+    return(rho_1)
+
+def densANK2_05Dec19(read):
+    ''' Calibration from 05 Dec 2019 in ANK_probes_05dec19.ipynb - New probes, not bent
+    '''
+    rho_2 = 0.997253+(0.007495*read)+(-0.000470*(read**2))+(0.000595*(read**3)) 
+    return(rho_2)
