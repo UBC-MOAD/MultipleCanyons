@@ -1,0 +1,14 @@
+# use glob syntax.
+syntax: glob
+
+*.txt
+*.jpg
+*.pdf
+*.mat
+*.csv
+lab/PIV/tests/30May19_PIV2/frames_video02/*.jpg
+lab/PIV/tests/30May19_PIV2/frames_video02/*.txt
+lab/PIV/tests/30May19_PIV2/frames_video01/*.jpg
+lab/PIV/tests/30May19_PIV2/frames_video01/*.txt
+lab/PIV/tests/30May19_PIV2/frames_video02/quivers/*.txt
+lab/PIV/tests/30May19_PIV2/frames_video02/quivers/*.jpg
