@@ -252,6 +252,109 @@ T13 = {"date": "07Aug19",
        "drift_ups": 0.003833, # fix
        "drift_dns": 0.007633, # fix
        }
+
+#---------- Post-defence ---------------------------------
+T13b = {"date": "10Dec19",
+       "Nsb": 1.65 , # fix
+       "Nshelf": 1.65, # fix
+       "fo": 0.7 ,
+       "U":0.5 ,
+       "run_num": 3,
+       "dir": '../experiments/exp_10dec19/',
+       "base_files":['01_base.mat','03_base.mat','05_base.mat'],#fix
+       "run_files":['02_experiment.mat','04_experiment.mat','06_experiment.mat'],#fix
+       "color":'olive',
+       "rho_top":[1.015873,1.016497,1.017138],
+       "rho_sb":[1.02394,1.02543,1.02401],
+       "rho_bot":[1.03783,1.03825,1.03839],
+       "hsb":2.9,
+       "hbot":9.55,
+       "calibration":'05Dec19',
+       "drift_ups": 0.003833, # fix
+       "drift_dns": 0.007633, # fix
+       }
+
+T14 = {"date": "19Dec19",
+       "Nsb": 1.65 , # fix
+       "Nshelf": 1.65, # fix
+       "fo": 0.7 ,
+       "U":0.5 ,
+       "run_num": 3,
+       "dir": '../experiments/exp_19dec19/',
+       "base_files":['01_base.mat','03_base.mat','05_base.mat'],#fix
+       "run_files":['02_experiment.mat','04_experiment.mat','06_experiment.mat'],#fix
+       "color":'olive',
+       "rho_top":[1.009436,1.01077,1.01145],
+       "rho_sb":[1.01677,1.01687,1.01646],
+       "rho_bot":[1.0271,1.02614,1.02574],
+       "hsb":3.0,
+       "hbot":9.6,
+       "calibration":'05Dec19',
+       "drift_ups": 0.003833, # fix
+       "drift_dns": 0.007633, # fix
+       }
+
+T15 = {"date": "21Dec19",
+       "Nsb": 1.65 , # fix
+       "Nshelf": 1.65, # fix
+       "fo": 0.7 ,
+       "U":0.5 ,
+       "run_num": 3,
+       "dir": '../experiments/exp_21dec19/',
+       "base_files":['01_base.mat','03_base.mat','05_base.mat'],#fix
+       "run_files":['02_experiment.mat','04_experiment.mat','06_experiment.mat'],#fix
+       "color":'olive',
+       "rho_top":[1.007165,1.007293,1.00733],
+       "rho_sb":[1.01169,1.01171,1.0115],
+       "rho_bot":[1.01866,1.01836,1.01835],
+       "hsb":2.9,
+       "hbot":9.5,
+       "calibration":'05Dec19',
+       "drift_ups": 0.003833, # fix
+       "drift_dns": 0.007633, # fix
+       }
+
+T16 = {"date": "04Feb20",
+       "Nsb": 1.65 , # fix
+       "Nshelf": 1.65, # fix
+       "fo": 0.7 ,
+       "U":0.375 ,
+       "run_num": 2,
+       "dir": '../experiments/exp_04feb20/',
+       "base_files":['01_base.mat','03_base.mat','05_base.mat'],#fix
+       "run_files":['02_experiment.mat','06_experiment.mat'],#fix
+       "color":'olive',
+       "rho_top":[1.01463,1.01633],
+       "rho_sb":[1.02593,1.0259],
+       "rho_bot":[1.04155,1.04339],
+       "hsb":2.9,
+       "hbot":9.6,
+       "calibration":'05Dec19',
+       "drift_ups": 0.003833, # fix
+       "drift_dns": 0.007633, # fix
+       }
+
+T17 = {"date": "06Feb20",
+       "Nsb": 1.65 , # fix
+       "Nshelf": 1.65, # fix
+       "fo": 0.7 ,
+       "U":0.375 ,
+       "run_num": 2,
+       "dir": '../experiments/exp_06feb20/',
+       "base_files":['01_base.mat','03_base.mat','05_base.mat'],#fix
+       "run_files":['02_experiment.mat','04_experiment.mat'],#fix
+       "color":'olive',
+       "rho_top":[1.012,1.011048],
+       "rho_sb":[1.017522,1.01679],
+       "rho_bot":[1.027548,1.0271],
+       "hsb":2.9,
+       "hbot":9.6,
+       "calibration":'05Dec19',
+       "drift_ups": 0.003833, # fix
+       "drift_dns": 0.007633, # fix
+       }
+
+#-----------------------------------------------------
 #DYE01 = {"date": "23Aug19",
 #       "Nsb": 1.24,
 #       "Nshelf": 1.24,
