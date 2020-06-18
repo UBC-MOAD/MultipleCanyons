@@ -255,14 +255,14 @@ T13 = {"date": "07Aug19",
 
 #---------- Post-defence ---------------------------------
 T13b = {"date": "10Dec19",
-       "Nsb": 1.65 , # fix
-       "Nshelf": 1.65, # fix
+       "Nsb": 2.4 , # from notebook
+       "Nshelf": 2.4, # "
        "fo": 0.7 ,
        "U":0.5 ,
        "run_num": 3,
        "dir": '../experiments/exp_10dec19/',
-       "base_files":['01_base.mat','03_base.mat','05_base.mat'],#fix
-       "run_files":['02_experiment.mat','04_experiment.mat','06_experiment.mat'],#fix
+       "base_files":['01_base.mat','02_base.mat','03_base.mat','05_base.mat','07_base.mat'],
+       "run_files":['04_experiment.mat','06_experiment.mat','08_experiment.mat'],
        "color":'olive',
        "rho_top":[1.015873,1.016497,1.017138],
        "rho_sb":[1.02394,1.02543,1.02401],
@@ -275,14 +275,14 @@ T13b = {"date": "10Dec19",
        }
 
 T14 = {"date": "19Dec19",
-       "Nsb": 1.65 , # fix
-       "Nshelf": 1.65, # fix
+       "Nsb": 1.86 , # from notebook
+       "Nshelf": 1.86, # from notebook
        "fo": 0.7 ,
        "U":0.5 ,
        "run_num": 3,
        "dir": '../experiments/exp_19dec19/',
-       "base_files":['01_base.mat','03_base.mat','05_base.mat'],#fix
-       "run_files":['02_experiment.mat','04_experiment.mat','06_experiment.mat'],#fix
+       "base_files":['01_base.mat','02_base.mat','03_base.mat','05_base.mat','07_base.mat'],
+       "run_files":['04_experiment.mat','06_experiment.mat','08_experiment.mat'],
        "color":'olive',
        "rho_top":[1.009436,1.01077,1.01145],
        "rho_sb":[1.01677,1.01687,1.01646],
@@ -295,14 +295,14 @@ T14 = {"date": "19Dec19",
        }
 
 T15 = {"date": "21Dec19",
-       "Nsb": 1.65 , # fix
-       "Nshelf": 1.65, # fix
+       "Nsb": 1.61 , # from notebook
+       "Nshelf": 1.61, # "
        "fo": 0.7 ,
        "U":0.5 ,
        "run_num": 3,
        "dir": '../experiments/exp_21dec19/',
-       "base_files":['01_base.mat','03_base.mat','05_base.mat'],#fix
-       "run_files":['02_experiment.mat','04_experiment.mat','06_experiment.mat'],#fix
+       "base_files":['01_base.mat','02_base.mat','03_base.mat','06_base.mat'],
+       "run_files":['04_experiment.mat','05_experiment.mat','07_experiment.mat'],
        "color":'olive',
        "rho_top":[1.007165,1.007293,1.00733],
        "rho_sb":[1.01169,1.01171,1.0115],
@@ -315,14 +315,14 @@ T15 = {"date": "21Dec19",
        }
 
 T16 = {"date": "04Feb20",
-       "Nsb": 1.65 , # fix
-       "Nshelf": 1.65, # fix
+       "Nsb": 2.5 , # from notebook
+       "Nshelf": 2.5, # "
        "fo": 0.7 ,
        "U":0.375 ,
        "run_num": 2,
        "dir": '../experiments/exp_04feb20/',
-       "base_files":['01_base.mat','03_base.mat','05_base.mat'],#fix
-       "run_files":['02_experiment.mat','06_experiment.mat'],#fix
+       "base_files":['01_base.mat','02_base.mat','04_base.mat'],
+       "run_files":['03_experiment.mat','05_experiment.mat'],
        "color":'olive',
        "rho_top":[1.01463,1.01633],
        "rho_sb":[1.02593,1.0259],
@@ -335,14 +335,14 @@ T16 = {"date": "04Feb20",
        }
 
 T17 = {"date": "06Feb20",
-       "Nsb": 1.65 , # fix
-       "Nshelf": 1.65, # fix
+       "Nsb": 2.0 , # from notebook
+       "Nshelf": 2.0, # "
        "fo": 0.7 ,
        "U":0.375 ,
        "run_num": 2,
        "dir": '../experiments/exp_06feb20/',
-       "base_files":['01_base.mat','03_base.mat','05_base.mat'],#fix
-       "run_files":['02_experiment.mat','04_experiment.mat'],#fix
+       "base_files":['01_base.mat','02_base.mat','04_base.mat'],
+       "run_files":['03_experiment.mat','05_experiment.mat'],
        "color":'olive',
        "rho_top":[1.012,1.011048],
        "rho_sb":[1.017522,1.01679],
