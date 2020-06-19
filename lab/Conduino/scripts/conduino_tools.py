@@ -4,7 +4,7 @@ from scipy.signal import butter, filtfilt
 
 def filter_freq(time, data, f):
     '''filter a particular frequency (f) from a timeseries (data). 
-    As in harmonic analysis chapter 5.5   from Data Analysis Methods in 
+    As in harmonic analysis chapter 5.5 from Data Analysis Methods in 
     Physical Oceanography and amatlab snippet from Gonzalo
     
     Input:

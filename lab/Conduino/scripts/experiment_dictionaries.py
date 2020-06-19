@@ -255,8 +255,8 @@ T13 = {"date": "07Aug19",
 
 #---------- Post-defence ---------------------------------
 T13b = {"date": "10Dec19",
-       "Nsb": 2.4 , # from notebook
-       "Nshelf": 2.4, # "
+       "Nsb": [1.69,1.51,1.63], # from notebook
+       "Nshelf": [2.33,2.55,2.32], # "
        "fo": 0.7 ,
        "U":0.5 ,
        "run_num": 3,
@@ -275,8 +275,8 @@ T13b = {"date": "10Dec19",
        }
 
 T14 = {"date": "19Dec19",
-       "Nsb": 1.86 , # from notebook
-       "Nshelf": 1.86, # from notebook
+       "Nsb": [1.34,1.27,1.32] , # from notebook
+       "Nshelf": [1.8,1.91,1.81], # from notebook
        "fo": 0.7 ,
        "U":0.5 ,
        "run_num": 3,
@@ -295,8 +295,8 @@ T14 = {"date": "19Dec19",
        }
 
 T15 = {"date": "21Dec19",
-       "Nsb": 1.61 , # from notebook
-       "Nshelf": 1.61, # "
+       "Nsb": [1.07,1.14,1.18], # from notebook
+       "Nshelf": [1.66,1.61,1.50], # "
        "fo": 0.7 ,
        "U":0.5 ,
        "run_num": 3,
@@ -315,8 +315,8 @@ T15 = {"date": "21Dec19",
        }
 
 T16 = {"date": "04Feb20",
-       "Nsb": 2.5 , # from notebook
-       "Nshelf": 2.5, # "
+       "Nsb": [1.60,1.60], # from notebook
+       "Nshelf": [2.5,2.5], # "
        "fo": 0.7 ,
        "U":0.375 ,
        "run_num": 2,
@@ -335,8 +335,8 @@ T16 = {"date": "04Feb20",
        }
 
 T17 = {"date": "06Feb20",
-       "Nsb": 2.0 , # from notebook
-       "Nshelf": 2.0, # "
+       "Nsb":  [1.08,1.15] , # from notebook
+       "Nshelf": [2.23,1.94], # "
        "fo": 0.7 ,
        "U":0.375 ,
        "run_num": 2,
